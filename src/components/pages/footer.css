@@ -1,0 +1,23 @@
+.Footer {
+  background-color: black;
+  color:white;
+  list-style: none;
+  padding: 30px 0;
+}
+.navigate {
+  display: flex;
+  justify-content: center;
+}
+.navigate li {
+  padding: 10px;
+}
+.aboutUs {
+  display: flex;
+}
+.aboutUs li {
+  padding: 10px;
+}
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}

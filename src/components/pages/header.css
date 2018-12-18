@@ -1,0 +1,27 @@
+.Header {
+  height: 70px;
+  list-style: none;
+  color:white;
+  background-image: linear-gradient(to bottom right, #fcb900, #fa5f22,#f91368);
+}
+.header .wrapper {
+  display: flex;
+}
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.header-list {
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 70px;
+}
+.title{
+  font-family: 'Carter One', cursive;
+  font-size: 30px;
+}
